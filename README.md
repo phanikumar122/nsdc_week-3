@@ -27,9 +27,3 @@ This deliverable provides a detailed, end-to-end plan for developing, tuning, va
 
 ### Tools & Technologies
 Python 3.13 · Scikit-Learn · LightGBM · XGBoost · CatBoost · Optuna · SHAP · Imbalanced-Learn · MLflow · FastAPI · Docker · Evidently AI
-
-### How to Regenerate
-```bash
-pip install python-docx matplotlib seaborn numpy
-python generate_week3_doc.py
-```
